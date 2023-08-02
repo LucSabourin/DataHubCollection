@@ -1,0 +1,7 @@
+Pylance by Microsoft
+Python by Microsoft
+Draw.io Ingegration by Henning Dieterichs
+Azure CLI Tools by Microsoft
+
+If you think of anything else that you need or will likely use, let me know and I will add them to
+mine as well (I know that there is a docker extension by microsoft as well.)
